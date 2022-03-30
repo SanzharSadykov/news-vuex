@@ -1,0 +1,25 @@
+{
+    "news": [
+      {
+        "id": 1,
+        "title": "How 2 Industries Stymied Justice for Young Lead Paint Victims",
+        "brief": "The U.S. insurance and real estate industries have waged a decades-long campaign to avoid liability in lead cases, helping to prolong an epidemic. The cost for millions of children has been incalculable.",
+        "desc": "A doctor soon discovered that the boy, Joevonne, known as J.J., had lead poisoning. The level was so high that he immediately began a 19-day treatment to help rid his body of the toxin, which can cause irreversible damage to a child’s brain and nervous system. A health inspector soon found lead paint and dust throughout the family’s rental home. As J.J. faces an uncertain future, no one has been held responsible so far — the firm that owns the home protected its assets in a tangle of limited liability companies, and the property insurer excluded lead from its coverage. These practices are now the norm across the United States, The New York Times has found, part of a decades-long campaign by the real estate and insurance industries to shield themselves from liability in lead-poisoning cases. The effort has helped allow what is often considered a problem of the past to remain a silent epidemic today."
+      },
+      {
+        "id": 2,
+        "name": "Walk the dog",
+        "done": false
+      },
+      {
+        "id": 3,
+        "name": "Get some pizza",
+        "done": false
+      },
+      {
+        "name": "Finish this project",
+        "id": 4,
+        "done": false
+      }
+    ]
+  }
